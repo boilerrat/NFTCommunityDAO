@@ -51,3 +51,14 @@ In a way, the previous example is a form of staking, however there are other pro
 
 Often times we will also find NFT projects and games that have crypto staking pools, with their own token matched up to ethereum or USDT or whatever. They often pay very high interest rates, so that is another possibility to explore.
 
+### What else can we do with the DAO?
+This is not a question that can be easily answered as the direction of the DAO will evolve over time, based on the community interests. Some options that can be looked at is:
+
+Becoming governance partners in other projects, through the purchase of a projects governance token or by earning them through other means.
+Partnerships with other DAO's
+Entering into the DAO of DAO's, called "UberDao" on the DAOHaus system
+grant programs to bootstrap developing projects or in very special cases, individual creators who are active members of the DAO.
+
+### Can I quit my day job if I join the DAO?
+I wouldn't do that just yet, but hopefully one day we can say that involvement in the DAO will be profitable enough to quit your day job.
+
