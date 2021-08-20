@@ -51,6 +51,9 @@ In a way, the previous example is a form of staking, however there are other pro
 
 Often times we will also find NFT projects and games that have crypto staking pools, with their own token matched up to ethereum or USDT or whatever. They often pay very high interest rates, so that is another possibility to explore.
 
+### Burning NFTs
+Say what? Yeah it's true. Burning NFTs is a great way to increase the value of other NFTs you hold. For example, the project could whale into a projects NFT drops and purchase a large chunk of the drop (or buy up all the remaining copies after an initial drop). For a large enough purchase, the DAO could even negotiate with the project, a price to bulk purchase. After the NFTCD owns the NFTs, the community may vote to burn a percentage of them and be left with more valuable NFTs, for every person who purchased one, even if they are not members of the NFTCD.
+
 ### What else can we do with the DAO?
 This is not a question that can be easily answered as the direction of the DAO will evolve over time, based on the community interests. Some options that can be looked at is:
 
