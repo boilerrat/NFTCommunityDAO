@@ -22,8 +22,6 @@ NFT enthusiasts investing in yield generating NFT projects
 
 **Snapshot:** https://snapshot.org/#/nftcommunitydao.eth
 
-**everything beloow is a straight copy from the wiki, so if you prefer a hyperlinked version, click on the wiki tab and enjoy the document that way.**
-
 ### Who we are
 We are a group of NFT enthusiasts who first formed while following the renown NFT artist pseudonymously known as Lux Expression. Out of that community came a group interested in expanding the capabilities of their investments were they to pool their resources together.
 
