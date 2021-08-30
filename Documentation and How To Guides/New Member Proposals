@@ -1,0 +1,23 @@
+# Submitting a New Member Proposal - Joining the DAO
+
+Before you join the DAO it's important that you understand its purpose and introduce yourself to the community.
+
+ - [Github Readme](https://github.com/boilerrat/NFTCommunityDAO/blob/main/README.md)
+ - [Discord Community](https://discord.com/channels/868728297792602193/869696202399174758)
+
+# Choose a Vault
+
+Currently the DAO is focused on building its Ethereum vault. [Go to that page](https://app.daohaus.club/dao/0x1/0x6c8b9d71bb6c29e0ac7a33ddaefcf0a0f3e88f8f) and take a look around. On our README you can also find our Polygon and XDAI vaults.
+
+# Connect your wallet
+In the upper right hand corner of the vault page you can select "Connect Wallet". This will use [WalletConnect](https://walletconnect.org) to connect into your Ethereum wallet.  WalletConnect supports a wide array of Ethereum wallets.
+# Swap for your WETH
+If you haven't already swap for WETH which will be used for your tribute. You will, of course, pay swap and gas fees.
+# Submit a Proposal
+
+In order to submit a proposal, you must go to the proposal page.  You can use the "book" icon in the left sidebar or the yellow button to "View Proposals". 
+
+ - Complete the title, brief description, personal link
+ - Complete shares requested and the tribute offered. The standard tribute has been 0.5 WETH for 100 shares.
+ - Hit the unlock token button to so DAOHAUS can send your WETH when the proposal is accepted. There will be a gas fee to complete this transaction.
+ - Click "submit" to create the contract associated with your proposal. This will probably be your biggest gas fee in the process.
