@@ -31,11 +31,11 @@ The NFT Community DAO (NFTCD) is comprised of NFT enthusiasts investing in yield
 
 **Link:** <https://etherscan.io/address/0x6c8b9d71bb6c29e0ac7a33ddaefcf0a0f3e88f8f>
 
-**Minnion Contract:** 0x46d20a21532b4cabbf8165f29a4d7bf0a9d35c33
+**Minnion Contract:(Orca)** 0x46d20a21532b4cabbf8165f29a4d7bf0a9d35c33
 
 **Link:** <https://etherscan.io/address/0x46d20a21532b4cabbf8165f29a4d7bf0a9d35c33>
 
-**Nifty Minnion:** 0x845adfc0f3abb6d56d4d4daa56c1507be18295f4
+**Nifty Minnion:(Dolphin)** 0x845adfc0f3abb6d56d4d4daa56c1507be18295f4
 
 **Link:** <https://etherscan.io/address/0x845adfc0f3abb6d56d4d4daa56c1507be18295f4>
 
@@ -50,6 +50,14 @@ The NFT Community DAO (NFTCD) is comprised of NFT enthusiasts investing in yield
 **Moloch Contract:** 0xb041e3a88df8ec0a06726268f6711d6a84284e4e
 
 **Link:** <https://polygonscan.com/address/0xb041e3a88df8ec0a06726268f6711d6a84284e4e>
+
+**Minnion Contract:(Poly Orca)** 0xfbf7a64b2619c3d6d09e1eba0cf960a77cc8895a
+
+**Link:**<https://polygonscan.com/address/0xfbf7a64b2619c3d6d09e1eba0cf960a77cc8895a>
+
+**Nifty Minnion:(Polydolphin)** 0xca8e4f6e41c5072c0611d86a3dfc21b7047bf2da
+
+**Link:** <https://polygonscan.com/address/0xca8e4f6e41c5072c0611d86a3dfc21b7047bf2da>
 
 ## Who we are
 We are a group of NFT enthusiasts who first formed while following the renown NFT artist pseudonymously known as Lux Expression. Out of that community came a group interested in expanding the capabilities of their investments were they to pool their resources together.
