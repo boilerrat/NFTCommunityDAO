@@ -45,6 +45,16 @@ The NFT Community DAO (NFTCD) is comprised of NFT enthusiasts investing in yield
 
 **Link:** <https://blockscout.com/xdai/mainnet/address/0xD8837C5bF792443EdeC94576e23450166DFd3ae8>
 
+**Minnion Safe Contract:** 0x8752c694dae66d56d4764b2f8a69a4789ff8c219
+
+**Link:** <https://blockscout.com/xdai/mainnet/address/0x8752C694Dae66d56d4764B2F8A69A4789fF8C219>
+
+**Gnosis Safe on xDai:** 0x912c0145f1b565af2d471e16cd91390b8789f91c
+
+**Link:** <https://blockscout.com/xdai/mainnet/address/0x912c0145F1b565af2d471e16cD91390b8789F91c>
+
+**Link to Safe:** https://xdai.gnosis-safe.io/app/#/safes/0x912c0145F1b565af2d471e16cD91390b8789F91c/balances
+
 ### Polygon
 
 **Moloch Contract:** 0xb041e3a88df8ec0a06726268f6711d6a84284e4e
