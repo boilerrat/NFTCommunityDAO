@@ -1,1 +1,157 @@
-.
+Meeting Minutes
+===
+
+###### tags: `NFTCommunityDAO` `Meeting`
+
+:::info
+- **Location:** NFT Community DAO Discord Server Voice Channels #meet-up
+                [Invite Here](https://discord.gg/pByKeSaGg4)
+- **Date:** Oct 26, 2021 9:00 PM-10:10 PM (EDT)
+- **Agenda**
+1. Weekly Report `15 min`
+	> [name=boilerrat]
+	> Twitter Stats
+	> Discord Stats
+	> DAO Report
+	
+2. Channel Reshuffle `10 min`
+   > New Circles
+   > Outreach
+   > Documents
+   > Governance
+   > Finance
+   > Research
+
+
+3. Contribution Reward System `20min`
+   > Creating a social token
+   > Tracking contributions (source cred, coordinape, Wayfare Discord Bot)
+   > POAPs
+
+4. New Discord Bots `10 min`
+   > Craig for recording meetings
+   > Wayfarer Discord bounty system
+   > Fredboat playing music
+   > Sesh for creating events
+
+- **Participants:**
+    - @boilerrat (BR)
+    - @mauxfaux
+    - POAP-Heads
+
+- **Host:** BR
+- **Recorded By:**Craig Bot and BR 
+
+:::
+
+# Weekly Report 
+
+## Social
+
+- Twitter 1448 Followers
+- [Twitter Data](https://docs.google.com/spreadsheets/d/1Ytdgv9_xyUrFqgih6xrJo0xGeE5zMkkAsitapqHyJC4/edit#gid=1816850827)
+ 
+- Discord: 72 Dolphins 12 Bots
+    - month of Nitro to give away, if the boosts are used on the server 
+- Telegram.... it's there
+
+
+## Ethereum DAO/xDaiD/Polygon DAO's
+
+### Ethereum
+  - 3 memebers 401 issued shares
+  - .2 Eth in the Vault 2 NFTs
+  - Vaults can now sell directly to Rarible
+  - 1 Outstanding proposal for 100 shares, waiting on gas to come down to process
+
+### Polygon
+  -  2 memebers 277 issued shares
+  - 150 DAI in vault
+  - 1 proposal in voting for 200 shares (balance from eth)
+
+### xDAI, 3 memembers 400 issued shares
+  - 0 in vault
+  - being used as main governance chain
+  - has a gnosis safe set up, should allow control of funds on mainnet from calls made from xDAI
+
+## Channel Reshuffle 
+
+- added channels for circles of interest. Users must go to circles of interest channel and select the emoji for any groups they would like to contribute to. 
+- deleted a few channels that weren't being used.
+
+
+
+
+## Contribution Reward System
+
+- possibly creating a token
+- open to ideas
+
+## New Discord Bots 
+
+- Craig: recording us now
+- Wayfare: tasks and quests. Turns out not spefic to server.
+- Fred Boat: standard music player
+- Sesh: Scheduling
+- Collab.land: Collaboration
+- 
+
+:dart: Sprint Goal
+---
+- Identify tasks that are most important to us
+
+
+- better system for distributing POAPs for meetups
+- go with every two weeks for DAO meetups for now
+- 
+:books: Sprint Backlog
+---
+- Identify Tasks falling behind
+- 
+
+:mag: Sprint Retro
+---
+### What we can start Doing
+- New initiatives and experiments we want to start improving
+- in background, working on NFT community to DAO work. 
+
+:closed_book: Tasks
+--
+==Importance== (1 - 5) / Name /
+
+### Research:
+- [x] ==#==  
+- [ ] ==#==  
+- [ ] ==#==
+
+### Outreach:
+- [ ] ==#==  
+- [ ] ==#==  
+- [ ] ==#==
+
+### Finance:
+- [ ] ==#==  
+- [ ] ==#==  
+- [ ] ==#==
+
+### Documents:
+- [ ] ==#==  
+- [ ] ==#==  
+- [ ] ==#==
+
+### Governance:
+- [ ] ==#==  
+- [ ] ==#==  
+- [ ] ==#==
+
+## Notes 
+<!-- Other important details discussed during the meeting can be entered here. -->
+Ethereum Add
+[https://app.daohaus.club/dao/0x1/0x6c8b9d71bb6c29e0ac7a33ddaefcf0a0f3e88f8f](https://app.daohaus.club/dao/0x1/0x6c8b9d71bb6c29e0ac7a33ddaefcf0a0f3e88f8f)
+
+xDai
+[https://app.daohaus.club/dao/0x64/0xd8837c5bf792443edec94576e23450166dfd3ae8](https://app.daohaus.club/dao/0x64/0xd8837c5bf792443edec94576e23450166dfd3ae8)
+
+Polygon
+[https://app.daohaus.club/dao/0x89/0xb041e3a88df8ec0a06726268f6711d6a84284e4e](https://app.daohaus.club/dao/0x89/0xb041e3a88df8ec0a06726268f6711d6a84284e4e)
+
